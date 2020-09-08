@@ -1,0 +1,21 @@
+body{
+	font-size:16px;
+	color:#fff;
+	background-color: maroon;
+	font-family: 'Oxygen', sans-serif;
+	/*background:linear-gradient(90deg, #001f36 33%,#00c8ff 100% );*/
+}
+.container{
+	margin-left:inherit;
+}
+#header-nav{
+	border-radius: 0;
+	border:0;
+	background-color: #f6b319;
+}
+#logo-img{
+	background:url('../images/logo.png') no-repeat;
+	width:150px;
+	height:150px;
+	margin:10px 15px 10px 0;
+}
